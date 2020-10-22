@@ -1,5 +1,4 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <a href="https://t.me/mike_2000">
   <img align="left" alt="Mike's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
@@ -7,7 +6,6 @@
   <img align="left" alt="Mike's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   
 <br />
-
 
 Hi, I'm [Michele Marcucci](https://instagram.com/metanfetamike), a **Student and Junior Developer** 🚀 from Italy, currently, I'm studying in **Milano Bicocca** University (IT). Beside's programming, I enjoy gaming and traveling.
 
