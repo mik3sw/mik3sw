@@ -4,7 +4,12 @@
 </a>
 <a href="https://www.instagram.com/metanfetamike">
   <img align="left" alt="Mike's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/metanfetamike">
+  <img align="left" alt="Michele Marcucci | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
   
+<br />
 <br />
 
 Hi, I'm [Michele Marcucci](https://instagram.com/metanfetamike), a **Student and Junior Developer** 🚀 from Italy, currently, I'm studying in **Milano Bicocca** University (IT). Beside's programming, I enjoy gaming and traveling.
