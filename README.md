@@ -1,5 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://t.me/mike_2000"> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><a href="https://t.me/mike_2000"> <img src="https://github.githubassets.com/images/mona-whisper.gif" width="25px">
 
   <img align="left" alt="Mike's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
