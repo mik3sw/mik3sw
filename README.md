@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 - 👯 I’d love to learn game programming
 - 💬 Ask me about Telegram Bots
 
+[<img align="left" src="https://github.com/mik3sw/mik3sw/blob/main/coffee.png" width="410">](https://twitter.com/metanfetamike/status/1319246700616306688?ref_src=twsrc%5Etfw)
+
 
