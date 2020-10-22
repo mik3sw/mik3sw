@@ -12,11 +12,9 @@
 <br />
 <br />
 
-[<img align="right" src="https://github.com/mik3sw/mik3sw/blob/main/coffee.png" width="450">](https://twitter.com/metanfetamike/status/1319246700616306688?ref_src=twsrc%5Etfw)
-
 Hi, I'm [Michele Marcucci](https://instagram.com/metanfetamike), a **Student and Junior Developer** 🚀 from Italy, currently, I'm studying in **Milano Bicocca** University (IT). Beside's programming, I enjoy gaming and traveling.
 
-<img align="right" alt="GIF" src="https://github.com/mik3sw/mik3sw/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/mik3sw/mik3sw/blob/main/code.gif?raw=true" width="400" height="320" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my personal [Telegram Bot](https://github.com/mik3sw/GoogleAssistantBot).
