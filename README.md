@@ -17,7 +17,7 @@ Hi, I'm [Michele Marcucci](https://instagram.com/metanfetamike), a **Student and
 <img align="right" alt="GIF" src="https://github.com/mik3sw/mik3sw/blob/main/code.gif?raw=true" width="400" height="240" />
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my personal [Telegram Bot](https://github.com/mik3sw/GoogleAssistantBot).
+- 🔭 I’m currently working on my personal [Telegram Bot](https://github.com/mik3sw/GoogleAssistantBot) and on covid-19 data (see my profile).
 - 🌱 I’m currently learning C, Prolog, Lisp, Java and Python
 - 👯 I’d love to learn game programming
 - 💬 Ask me about Telegram Bots
