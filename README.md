@@ -12,6 +12,11 @@
 <br />
 <br />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mik3sw&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br />
+<br />
+
 Hi, I'm [Michele Marcucci](https://instagram.com/metanfetamike), a **Student and Junior Developer** 🚀 from Italy, currently, I'm studying in **Milano Bicocca** University (IT). Beside's programming, I enjoy gaming and traveling.
 
 <img align="right" alt="GIF" src="https://github.com/mik3sw/mik3sw/blob/main/code.gif?raw=true" width="400" height="240" />
