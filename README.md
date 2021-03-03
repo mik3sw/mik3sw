@@ -19,10 +19,20 @@
 
 Hi, I'm [Michele Marcucci](https://instagram.com/metanfetamike), a **Student and Junior Developer** 🚀 from Italy, currently, I'm studying in **Milano Bicocca** University (IT). Beside's programming, I enjoy gaming and traveling.
 
+<!--
 <img align="right" alt="GIF" src="https://github.com/mik3sw/mik3sw/blob/main/code.gif?raw=true" width="400" height="240" />
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on my personal [Telegram Bot](https://github.com/mik3sw/GoogleAssistantBot) and on covid-19 data (see my profile).
 - 🌱 I’m currently learning C, Prolog, Lisp, Java and Python
 - 👯 I’d love to learn game programming
 - 💬 Ask me about Telegram Bots
+
+<br />
+<br />
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mik3sw&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mik3sw&layout=compact" />
+</div>
