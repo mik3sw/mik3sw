@@ -24,10 +24,10 @@ Hi, I'm [Michele Marcucci](https://instagram.com/metanfetamike), a **Student and
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my personal [Telegram Bot](https://github.com/mik3sw/GoogleAssistantBot) and on covid-19 data (see my profile).
-- 🌱 I’m currently learning Java and Python
-- 👯 I’d love to learn game programming and Swift
-- 💬 Ask me about Telegram Bots
+- 🔭 I’m currently working on SwiftUI projects;
+- 🌱 I’m currently learning Java, Python and Swift;
+- 👯 I’d love to learn game programming;
+- 💬 Ask me about Telegram Bots;
 
 <br />
 <br />
