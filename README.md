@@ -3,9 +3,6 @@
   <img align="left" alt="Mike's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.twitter.com/mikeevazowski">
-  <img align="left" alt="Mike's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/metanfetamike">
   <img align="left" alt="Michele Marcucci | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
   
@@ -17,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm [Michele Marcucci](https://instagram.com/metanfetamike), a **Student and Noob Developer** 🚀 from Italy, currently, I'm studying in **Milano Bicocca** University (IT). Beside's programming, I enjoy gaming and traveling.
+Hi, I'm [Michele Marcucci](https://www.twitter.com/mikeevazowski), a **Student and Noob Developer** 🚀 from Italy, currently, I'm studying in **Milano Bicocca** University (IT). Beside's programming, I enjoy gaming and traveling.
 
 <!--
 <img align="right" alt="GIF" src="https://github.com/mik3sw/mik3sw/blob/main/code.gif?raw=true" width="400" height="240" />
