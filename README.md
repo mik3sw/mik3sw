@@ -22,7 +22,7 @@ Hi, I'm [Michele Marcucci](https://www.twitter.com/mikeevazowski), a **Student a
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on SwiftUI projects;
+- 🔭 I’m currently working on Image Processing projects;
 - 🌱 I’m currently learning Java, Python and Swift;
 - 👯 I’d love to learn game programming;
 - 💬 Ask me about Telegram Bots;
