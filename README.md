@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://www.twitter.com/mikeevazowski">
-  <img align="left" alt="Michele Marcucci | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/it/0/09/Twitter_bird_logo.png" />
+  <img align="left" alt="Michele Marcucci | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />
 </a>
   
 <br />
