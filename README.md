@@ -1,10 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><a href="https://t.me/mike_2000"> <img src="https://github.githubassets.com/images/mona-whisper.gif" width="25px">
   <img align="left" alt="Mike's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />
 </a>
-
-<a href="https://www.twitter.com/mikeevazowski">
-  <img align="left" alt="Michele Marcucci | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />
-</a>
   
 <br />
 <br />
