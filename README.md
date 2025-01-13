@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm [Michele Marcucci](https://michelemarcucci.me), a **Sofware Engineer** 🚀 from Italy, currently, I'm working as a developer ad ReDiX Informatica. Beside's programming, I enjoy gaming and traveling.
+Hi, I'm [Michele Marcucci](https://michelemarcucci.me), a **Software Engineer** 🚀 from Italy, currently, I'm working as a C# and Java developer ad ReDiX Informatica. Beside's programming, I enjoy gaming and traveling.
 
 <!--
 <img align="right" alt="GIF" src="https://github.com/mik3sw/mik3sw/blob/main/code.gif?raw=true" width="400" height="240" />
