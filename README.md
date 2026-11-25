@@ -1,63 +1,61 @@
-<a href="https://michelemarcucci.me">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-    <img alt="Michele Marcucci, Software Engineer" src="./assets/header-dark.svg" width="100%">
-  </picture>
-</a>
+<a href="https://mik3sw.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"><img alt="Hi, I'm Mike. AI Software Engineer. Full-stack developer in Milan, wiring AI into real products." src="./assets/header-light.svg" width="100%"></picture></a>
 
 <p>
-  <a href="https://michelemarcucci.me"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-website-dark.svg"><img alt="michelemarcucci.me" src="./assets/btn-website-light.svg" height="38"></picture></a>&nbsp;
-  <a href="https://t.me/mike_2000"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-telegram-dark.svg"><img alt="Telegram" src="./assets/btn-telegram-light.svg" height="38"></picture></a>&nbsp;
-  <a href="https://github.com/mik3sw?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-github-dark.svg"><img alt="Follow on GitHub" src="./assets/btn-github-light.svg" height="38"></picture></a>
+  <a href="https://mik3sw.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-website-dark.svg"><img alt="mik3sw.github.io" src="./assets/btn-website-light.svg" height="40"></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/michele-angelo-marcucci/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"><img alt="LinkedIn" src="./assets/btn-linkedin-light.svg" height="40"></picture></a>&nbsp;
+  <a href="https://huggingface.co/mik3ml"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-huggingface-dark.svg"><img alt="Hugging Face" src="./assets/btn-huggingface-light.svg" height="40"></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/michele-angelo-marcucci/overlay/1767093719439/single-media-viewer/?profileId=ACoAACX59jEBhAPYj2ps2wksT7dUyJ0XUSN2iiA"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-cv-dark.svg"><img alt="View CV" src="./assets/btn-cv-light.svg" height="40"></picture></a>
+</p>
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-1-dark.svg"><img alt="How I work" src="./assets/section-1-light.svg" width="100%"></picture>
+
+I design, build and optimize software end to end, and reach for AI when a problem calls for it. I studied Information Technology at the University of Milano-Bicocca.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/principles-dark.svg"><img alt="Full-stack, end to end · Built to optimize · AI, put to work · Specialized models" src="./assets/principles-light.svg" width="100%"></picture>
+
+<br><br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-2-dark.svg"><img alt="Projects" src="./assets/section-2-light.svg" width="100%"></picture>
+
+<p>
+  <a href="https://www.redixlabs.ai/alembic"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-alembic-dark.svg"><img alt="Alembic" src="./assets/project-alembic-light.svg" width="49%"></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-gymtonic-dark.svg"><img alt="GymTonic (coming to Google Play)" src="./assets/project-gymtonic-light.svg" width="49%"></picture>
+</p>
+<p>
+  <a href="https://github.com/mik3sw/OneClick"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-oneclick-dark.svg"><img alt="OneClick" src="./assets/project-oneclick-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/mik3sw/NPR-Painting"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-npr-dark.svg"><img alt="NPR Painting" src="./assets/project-npr-light.svg" width="49%"></picture></a>
+</p>
+<p>
+  <a href="https://github.com/mik3sw/SkinDetection"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-skin-dark.svg"><img alt="Skin Detection" src="./assets/project-skin-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/mik3sw/LocalAI-chatbot"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-localai-dark.svg"><img alt="LocalAI Chatbot" src="./assets/project-localai-light.svg" width="49%"></picture></a>
 </p>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-about-dark.svg">
-  <img alt="About" src="./assets/section-about-light.svg" width="100%">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-3-dark.svg"><img alt="Websites" src="./assets/section-3-light.svg" width="100%"></picture>
 
-Hi, I'm **Michele** 👋 a Software Engineer from Italy. I currently work as a **C# and Java developer** at **ReDiX Informatica**. Besides programming, I enjoy gaming and traveling.
+Sites I designed and built, live in production.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/now-dark.svg">
-  <img alt="Working on AI projects · Learning Java, Python and Swift · Would love to learn game programming · Ask me about Telegram bots" src="./assets/now-light.svg" width="100%">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-stack-dark.svg">
-  <img alt="Stack" src="./assets/section-stack-light.svg" width="100%">
-</picture>
+<p>
+  <a href="https://www.redixlabs.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/site-redixlabs-dark.svg"><img alt="ReDiX Labs" src="./assets/site-redixlabs-light.svg" width="32%"></picture></a>
+  <a href="https://tastomatto.cc"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/site-tastomatto-dark.svg"><img alt="Tasto Matto" src="./assets/site-tastomatto-light.svg" width="32%"></picture></a>
+  <a href="https://trioclelia.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/site-trioclelia-dark.svg"><img alt="Trio Clelia" src="./assets/site-trioclelia-light.svg" width="32%"></picture></a>
+</p>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-  <img alt="C#, .NET, Java, Python, Swift, SQL, Git, Telegram Bots, AI / LLM" src="./assets/stack-light.svg">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-4-dark.svg"><img alt="Stack" src="./assets/section-4-light.svg" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg"><img alt="Python, TypeScript, Swift, C#, PyTorch, Hugging Face, OpenCV, Ollama, React, Next.js, Tailwind CSS, Docker" src="./assets/stack-light.svg" width="100%"></picture>
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-stats-dark.svg">
-  <img alt="GitHub activity" src="./assets/section-stats-light.svg" width="100%">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-5-dark.svg"><img alt="GitHub activity" src="./assets/section-5-light.svg" width="100%"></picture>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mik3sw&count_private=true&include_all_commits=true&show_icons=true&hide_rank=false&border_radius=12&bg_color=09090b&border_color=27272a&title_color=fafafa&text_color=a1a1aa&icon_color=fafafa&ring_color=fafafa">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mik3sw&count_private=true&include_all_commits=true&show_icons=true&hide_rank=false&border_radius=12&bg_color=ffffff&border_color=e4e4e7&title_color=09090b&text_color=71717a&icon_color=09090b&ring_color=18181b">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mik3sw&layout=compact&border_radius=12&bg_color=09090b&border_color=27272a&title_color=fafafa&text_color=a1a1aa">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mik3sw&layout=compact&border_radius=12&bg_color=ffffff&border_color=e4e4e7&title_color=09090b&text_color=71717a">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mik3sw&count_private=true&include_all_commits=true&show_icons=true&border_radius=12&bg_color=17181b&border_color=292b2f&title_color=eff0f2&text_color=a2a5aa&icon_color=7896ff&ring_color=7896ff"><img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mik3sw&count_private=true&include_all_commits=true&show_icons=true&border_radius=12&bg_color=eef0f2&border_color=dadce0&title_color=121417&text_color=585b61&icon_color=3d5fef&ring_color=3d5fef"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mik3sw&layout=compact&border_radius=12&bg_color=17181b&border_color=292b2f&title_color=eff0f2&text_color=a2a5aa&icon_color=7896ff&ring_color=7896ff"><img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mik3sw&layout=compact&border_radius=12&bg_color=eef0f2&border_color=dadce0&title_color=121417&text_color=585b61&icon_color=3d5fef&ring_color=3d5fef"></picture>
 
 <br><br>
 
-<sub>Built with ☕ and a neutral zinc palette, inspired by <a href="https://ui.shadcn.com">shadcn/ui</a>.</sub>
+<sub>Design and copy from <a href="https://mik3sw.github.io">mik3sw.github.io</a>. Illustration from <a href="https://www.openpeeps.com">Open Peeps</a> by Pablo Stanley (CC0).</sub>
