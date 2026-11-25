@@ -51,11 +51,4 @@ Sites I designed and built, live in production.
 
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-5-dark.svg"><img alt="GitHub activity" src="./assets/section-5-light.svg" width="100%"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mik3sw&count_private=true&include_all_commits=true&show_icons=true&border_radius=12&bg_color=17181b&border_color=292b2f&title_color=eff0f2&text_color=a2a5aa&icon_color=7896ff&ring_color=7896ff"><img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mik3sw&count_private=true&include_all_commits=true&show_icons=true&border_radius=12&bg_color=eef0f2&border_color=dadce0&title_color=121417&text_color=585b61&icon_color=3d5fef&ring_color=3d5fef"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mik3sw&layout=compact&border_radius=12&bg_color=17181b&border_color=292b2f&title_color=eff0f2&text_color=a2a5aa&icon_color=7896ff&ring_color=7896ff"><img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mik3sw&layout=compact&border_radius=12&bg_color=eef0f2&border_color=dadce0&title_color=121417&text_color=585b61&icon_color=3d5fef&ring_color=3d5fef"></picture>
-
-<br><br>
-
 <sub>Design and copy from <a href="https://mik3sw.github.io">mik3sw.github.io</a>. Illustration from <a href="https://www.openpeeps.com">Open Peeps</a> by Pablo Stanley (CC0).</sub>

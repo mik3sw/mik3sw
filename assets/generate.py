@@ -341,7 +341,7 @@ def stack(t):
 def main():
     for old in OUT.glob("*.svg"):
         old.unlink()
-    sections = ["How I work", "Projects", "Websites", "Stack", "GitHub activity"]
+    sections = ["How I work", "Projects", "Websites", "Stack"]
     for name, t in THEMES.items():
         files = {
             "header": header(t),
